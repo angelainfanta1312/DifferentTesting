@@ -12,8 +12,9 @@
   <body>
     <header>
       <h1>
-        ISQA_2 - Metric/Imp Converter
+        Unit & Functional Testing:
       </h1>
+      <h2> Metric/Units Converter</h2>
     </header>
     <div id='userstories' style='margin-left: 5%; margin-top: 5%'>
       <h3>User Stories</h3>
@@ -67,7 +68,7 @@
             success: function(data) {
               $('#result').text(data.string || data);
               $('#jsonResult').text(JSON.stringify(data));
-            }
+            },
           });
         });
       });

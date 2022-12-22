@@ -38,9 +38,8 @@ app.use(function(req, res, next) {
 });
 
 //Start our server and tests!
-app.listen(process.env.PORT || 3000, function () {
-  console.log("Listening on port " + process.env.PORT);
-  if(process.env.NODE_ENV==='test') {
+app.listen(3000, function () {
+  console.log("Listening on port " + 3000);
     console.log('Running Tests...');
     setTimeout(function () {
       try {
@@ -51,7 +50,6 @@ app.listen(process.env.PORT || 3000, function () {
           console.log(error);
       }
     }, 1500);
-  }
 });
 
 module.exports = app; //for testing
