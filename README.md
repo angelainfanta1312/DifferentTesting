@@ -1,4 +1,4 @@
-**FreeCodeCamp**- Information Security and Quality Assurance
+**Lab 3 & 4 VCNT**- Metric Converter
 ------
 
 1) SET NODE_ENV to `test` without quotes
