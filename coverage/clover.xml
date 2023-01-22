@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1674397549344" clover="3.2.0">
+  <project timestamp="1674397549344" name="All files">
+    <metrics statements="24" coveredstatements="22" conditionals="8" coveredconditionals="8" methods="7" coveredmethods="6" elements="39" coveredelements="36" complexity="0" loc="24" ncloc="24" packages="1" files="1" classes="1"/>
+    <file name="convertHandler.js" path="C:\Users\Angala_devine\OneDrive\Documents\Angela\Mtech_Semester1\Experiments\VCNT\CodeWork\Exp3_4\fcc-unit-converter\controllers\convertHandler.js">
+      <metrics statements="24" coveredstatements="22" conditionals="8" coveredconditionals="8" methods="7" coveredmethods="6"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="6" type="stmt"/>
+      <line num="21" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="26" count="4" type="stmt"/>
+      <line num="27" count="4" type="stmt"/>
+      <line num="29" count="0" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="34" count="13" type="stmt"/>
+      <line num="35" count="13" type="cond" truecount="2" falsecount="0"/>
+      <line num="36" count="12" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="41" count="6" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="45" count="6" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+      <line num="49" count="6" type="stmt"/>
+      <line num="52" count="1" type="stmt"/>
+      <line num="53" count="0" type="stmt"/>
+      <line num="58" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
